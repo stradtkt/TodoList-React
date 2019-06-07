@@ -1,6 +1,5 @@
 import React from 'react';
 import AppNavbar from './components/AppNavbar';
-import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 const App = () => {

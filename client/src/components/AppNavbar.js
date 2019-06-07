@@ -23,7 +23,7 @@ class AppNavbar extends Component {
     return (
       <div className="AppNavbar">
         <Navbar color="primary" primary expand="md">
-          <NavbarBrand href="/" style={{color: 'white'}}>reactstrap</NavbarBrand>
+          <NavbarBrand href="/" style={{color: 'white'}}>Todo List</NavbarBrand>
           <NavbarToggler onClick={this.toggle} />
         </Navbar>
       </div>
